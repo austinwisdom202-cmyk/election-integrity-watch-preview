@@ -1,0 +1,4 @@
+ID,Election,State,LGA,Ward,Polling unit,Source type,Source URL,Registered,Accredited,Valid,Rejected,Candidate votes JSON,Screening flags JSON
+3,presidential,Lagos,SAMPLE LGA,DEMO WARD,DEMO-002,official,https://example.org/fictional-sample,460,340,333,9,"{""Candidate A"":200,""Candidate B"":133}","[""Valid plus rejected ballots exceed accredited voters""]"
+2,presidential,Abia,SAMPLE LGA,DEMO WARD,DEMO-001,observer,https://example.org/fictional-sample,400,300,277,9,"{""Candidate A"":148,""Candidate B"":129}",[]
+1,presidential,Abia,SAMPLE LGA,DEMO WARD,DEMO-001,official,https://example.org/fictional-sample,400,300,279,9,"{""Candidate A"":150,""Candidate B"":129}",[]
